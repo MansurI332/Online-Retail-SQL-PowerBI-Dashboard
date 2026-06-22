@@ -1,6 +1,6 @@
 # 📊 Online Retail Sales Dashboard (SQL + Power BI)
 
-An end-to-end data analytics project built using SQL and Power BI to analyse over 500,000 retail transactions and uncover insights into revenue performance, customer behaviour, and product sales.
+A data analytics project built using SQL and Power BI to analyse over 500,000 retail transactions and uncover insights into revenue performance, customer behaviour, and product sales.
 
 The project covers the complete analytics workflow including data cleaning, exploratory analysis, customer segmentation (RFM), KPI development, and interactive dashboard design.
 
@@ -36,7 +36,9 @@ Provides a high-level summary of business performance including revenue, orders,
 - Top International Markets
 - Revenue Split (UK vs International)
 
-![Executive Overview](Images/executive_overview.png)
+<img width="2075" height="1200" alt="customer_analytics" src="https://github.com/user-attachments/assets/f78d14e3-dafc-46ce-a601-41a37931e5e4" />
+
+
 
 ---
 
@@ -55,7 +57,8 @@ RFM-based customer segmentation used to identify customer value groups and evalu
 - Customer Value by Segment
 - Customer Segment Mix
 
-![Customer Analytics](Images/customer_analytics.png)
+<img width="2075" height="1200" alt="customer_analytics" src="https://github.com/user-attachments/assets/ce62aeb5-083c-4499-b5c9-a77de565c4fb" />
+
 
 ---
 
@@ -73,7 +76,8 @@ Analysis of product performance based on revenue generation and sales volume.
 - Top Products by Revenue
 - Top Products by Units Sold
 
-![Product Analytics](Images/product_analytics.png)
+<img width="2075" height="1200" alt="product_analytics" src="https://github.com/user-attachments/assets/a38bcc3d-29e7-4d30-bd4d-d3eba6c31642" />
+
 
 ---
 
@@ -205,13 +209,4 @@ Built a three-page Power BI dashboard focused on:
 - The United Kingdom generated 82% of total revenue
 - Netherlands was the largest international market
 
----
 
-## 🔮 Future Improvements
-
-- Advanced DAX measures
-- Customer retention analysis
-- Cohort analysis
-- Profitability analysis
-- Forecasting models
-- Interactive drill-through pages
