@@ -36,7 +36,8 @@ Provides a high-level summary of business performance including revenue, orders,
 - Top International Markets
 - Revenue Split (UK vs International)
 
-<img width="2075" height="1200" alt="customer_analytics" src="https://github.com/user-attachments/assets/f78d14e3-dafc-46ce-a601-41a37931e5e4" />
+<img width="2075" height="1200" alt="executive_overview" src="https://github.com/user-attachments/assets/2b7556d5-1602-43e3-9da7-bb8162270846" />
+
 
 
 
@@ -57,7 +58,8 @@ RFM-based customer segmentation used to identify customer value groups and evalu
 - Customer Value by Segment
 - Customer Segment Mix
 
-<img width="2075" height="1200" alt="customer_analytics" src="https://github.com/user-attachments/assets/ce62aeb5-083c-4499-b5c9-a77de565c4fb" />
+<img width="2075" height="1200" alt="customer_analytics" src="https://github.com/user-attachments/assets/09c8baca-81b8-4489-bbd4-32c1c92def52" />
+
 
 
 ---
